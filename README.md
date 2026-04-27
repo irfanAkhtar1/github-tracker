@@ -42,3 +42,4 @@ This project helped me understand:
 ```bash
 git clone https://github.com/irfanAkhtar1/github-tracker.git
 cd github-tracker
+https://roadmap.sh/projects/github-user-activity
