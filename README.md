@@ -1,7 +1,5 @@
 # 🚀 GitHub Tracker CLI
 
-https://roadmap.sh/projects/github-user-activity
-
 My first Node.js project — a simple command-line tool that fetches GitHub user data using the GitHub API.
 
 ---
